@@ -96,6 +96,7 @@ Module BetterCalculator
             Loop
 
         Loop Until userInput = "Q"
+        Console.WriteLine("Have a nice day!")
 
 
     End Sub
